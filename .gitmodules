@@ -1,0 +1,3 @@
+[submodule "log_events_processing"]
+	path = log_events_processing
+	url = https://github.com/ashrithr/LogEventsProcessing.git
