@@ -4,3 +4,6 @@
 [submodule "index_tweets_solr"]
 	path = index_tweets_solr
 	url = https://github.com/ashrithr/index_tweets_solr.git
+[submodule "index_logs"]
+	path = index_logs
+	url = https://github.com/ashrithr/index_logs.git
