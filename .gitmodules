@@ -7,3 +7,6 @@
 [submodule "index_logs"]
 	path = index_logs
 	url = https://github.com/ashrithr/index_logs.git
+[submodule "LogEventsProcessingSpark"]
+	path = LogEventsProcessingSpark
+	url = https://github.com/ashrithr/LogEventsProcessingSpark.git
